@@ -1,0 +1,1 @@
+{"name":"Local: LeftAndDown2125B","url":"/home/atharva/Documents/CODEFORCES/LeftAndDown2125B.java","tests":[{"id":1753261746847,"input":"4\n3 5 15\n2 3 1\n12 18 8\n9 7 5\n","output":"1\n2\n1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/atharva/Documents/CODEFORCES/LeftAndDown2125B.java","group":"local","local":true}
